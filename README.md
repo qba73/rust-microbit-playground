@@ -1,1 +1,1 @@
-# rust-embedded-playground
+# rust-microbit-playground
